@@ -5,7 +5,9 @@
 
 ## 설치
 
-- [설치 참조](https://nextjs.org/docs/app/getting-started/installation)
+- [NEXTJS 설치 참조](https://nextjs.org/docs/app/getting-started/installation)
+npx create-next-app@latest  
+
 - Scrollable sidebar menu
 - Sheet menu for mobile
 - Grouped menu with labels
