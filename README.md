@@ -3,7 +3,7 @@
 
 https://github.com/
 
-- 
+- 레파지트리 생성 및 연동
 git init
 git branch -M main
 git remote add origin https://github.com/wisecomm/edu-prj.git
